@@ -19,9 +19,7 @@
 
 ## About Me
 
-I build things that learn. Focused on applied machine learning — from clean tabular pipelines to retrieval-augmented generation systems. I care about making models that actually work in production, not just in notebooks.
-
-Currently deep in the world of **LLMs + Vector Databases**, experimenting with RAG architectures, embedding pipelines, and context retrieval at scale.
+I Focused on applied machine learning — from clean tabular pipelines to retrieval-augmented generation systems. I care about making models that actually work in production.
 
 ---
 
