@@ -9,10 +9,9 @@
 ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   
 ```
 
-### Machine Learning Engineer.
+### Machine Learning Engineer · RAG Systems · AI Builder
 
 [![Profile Views](https://komarev.com/ghpvc/?username=BeshoAbdAlMasih&color=0e75b6&style=flat)](https://github.com/BeshoAbdAlMasih)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/beshoy-abd-al-masih-6b01712a5/)
 
 </div>
 
@@ -74,9 +73,9 @@ Currently deep in the world of **LLMs + Vector Databases**, experimenting with R
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeshoAbdAlMasih&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeshoAbdAlMasih&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
