@@ -41,21 +41,6 @@ I Focused on applied machine learning — from clean tabular pipelines to retrie
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
-
-## What I'm Building
-
-```
-📦 mini-rag-app
-├── Retrieval-Augmented Generation from scratch
-├── Vector store + embedding pipeline
-├── REST API with FastAPI
-└── Production-ready architecture
-```
-
-> RAG systems that actually retrieve the right thing — not just the closest cosine neighbor.
-
----
-
 ## Areas of Focus
 
 | Domain | Skills |
