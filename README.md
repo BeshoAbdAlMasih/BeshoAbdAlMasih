@@ -44,14 +44,3 @@ I Focused on applied machine learning — from clean tabular pipelines to retrie
 | **Classical ML** | sklearn workflows, model selection, cross-validation |
 | **RAG Systems** | Chunking strategies, embedding models, vector retrieval |
 | **API Development** | FastAPI, REST design, async endpoints |
-
----
-
-## Currently
-
-- 🔭 Building RAG pipelines and LLM-powered applications
-- 📊 Sharpening classical ML fundamentals (sklearn, feature engineering)
-- 🧠 Exploring embedding models and semantic search
-- ⚙️ Learning production deployment patterns for ML systems
-
-
