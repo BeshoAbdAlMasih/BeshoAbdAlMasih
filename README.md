@@ -9,12 +9,7 @@
 ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   
 ```
 
-### Machine Learning Engineer,
-
-[![Profile Views](https://komarev.com/ghpvc/?username=BeshoAbdAlMasih&color=0e75b6&style=flat)](https://github.com/BeshoAbdAlMasih)
-
-</div>
-
+### Machine Learning Engineer
 ---
 
 ## About Me
