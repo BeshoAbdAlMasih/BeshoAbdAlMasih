@@ -54,10 +54,4 @@ I Focused on applied machine learning — from clean tabular pipelines to retrie
 - 🧠 Exploring embedding models and semantic search
 - ⚙️ Learning production deployment patterns for ML systems
 
----
 
-<div align="center">
-
-*"The model is the easy part. The pipeline is the job."*
-
-</div>
